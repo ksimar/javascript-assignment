@@ -1,0 +1,40 @@
+
+
+.custom-timer {
+	display: none;
+}
+
+h2 {
+	
+	font-size: 44px;
+}
+
+.MyClass {
+    background-color: darkorange;
+    border: none;
+    color: white;
+    text-align: center;
+    padding: 15px 32px;
+    border-radius: 12px;
+}
+.MyClass:hover {
+    background-color: antiquewhite;
+}
+
+div p{
+    color: darkcyan;
+}
+
+.FloatClass {
+	font-size: 44px;
+    float: left;
+}
+
+div.input#time{
+	color:blue;
+	display: none;
+}
+
+body{
+	color  : red;
+}
